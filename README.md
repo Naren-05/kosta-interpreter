@@ -5,7 +5,7 @@
 4. [Kosta-language](#kosta-language)
    - [Variables and Data types](#1-variables-and-data-types)
    - [Expressions and Operators](#2-expressions-and-operators)
-   - [Functions](#3-functions)
+   - [Functions](#3-func.tions)
    - [Control Flow](#4-control-flow)
    - [Arrays and Hashmaps](#5-arrays-and-hashmaps)
    - [Scopes and Closures](#6-scopes-and-closures)
